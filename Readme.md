@@ -16,7 +16,7 @@ I used the **tiny-imagenet-200** dataset and further downsampled the images to s
 ### Traing Details
 I have trained the 2000 images randomly picked from the dataset. Half of them were used and trained as cover images and rest of them as messages. I have used **adam** optimizer. the model is trained for more than 890 epochs.
 
-### Results
+## Results
 
 The results were quite good and the cover and contaiber image were almost same and message and reveal message image were also quite similar. 
 Few example are given below.
