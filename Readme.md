@@ -11,7 +11,7 @@ I have implementated this paper in keras.
 
 ## Implementation Details
 ### Dataset used
-I used the **tiny-imagenet-200** dataset and further downsampled the images to size of (64,64,3) suing OpenCV. 
+I used the **tiny-imagenet-200** dataset and further downsampled the images to size of (64,64,3) using OpenCV. 
 
 ### Traing Details
 I have trained the 2000 images randomly picked from the dataset. Half of them were used and trained as cover images and rest of them as messages. I have used **adam** optimizer. the model is trained for more than 890 epochs.
