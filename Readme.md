@@ -22,7 +22,7 @@ The results were quite good and the cover and contaiber image were almost same a
 Few example are given below.
 Th below image are in this order
 
-Carrier image--------Message image--------Container Image--------Reveal message image
+Carrier image------------Message image------------Container Image------------Reveal message image
 
 ![carr](carr_img.JPEG) ![msg](msg_img.JPEG)  ![cont](container_img.JPEG)  ![msg_rev](msg_reveal_img.JPEG)
 
